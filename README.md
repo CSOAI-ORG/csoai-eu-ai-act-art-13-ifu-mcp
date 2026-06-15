@@ -124,3 +124,8 @@ Once configured, ask your assistant, for example:
 - "Use `check_ifu_completeness` to …"
 - "Use `list_art_13_3_elements` to …"
 <!-- BUY-LADDER:END -->
+
+## See also
+
+MEOK compliance MCP fleet:
+[`agent-audit-logger-mcp`](https://github.com/CSOAI-ORG/agent-audit-logger-mcp), [`agent-incident-relay-mcp`](https://github.com/CSOAI-ORG/agent-incident-relay-mcp)
